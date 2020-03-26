@@ -1,8 +1,5 @@
 <?php
-require 'includes/headers.php';
-
-
-
+    require 'includes/headers.php';
 ?>
 
 <!DOCTYPE html>
